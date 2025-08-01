@@ -37,7 +37,7 @@ The application follows object-oriented programming principles with a modular de
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/secret-santa-game.git
+git clone https://github.com/gowdhamnedunhezhiyan/secretsantagame.git
 cd secret-santa-game
 ```
 
